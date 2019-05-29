@@ -4,6 +4,6 @@ public class Simple{
      System.out.println("Hello Jenkins"); 
      System.out.println("Hello world "); 
      System.out.println("HDFS");   
-  System.out.println("rfgjkdfjkjkfg");  
+  System.out.println("HELLO@@@@");  
     }  
 }
